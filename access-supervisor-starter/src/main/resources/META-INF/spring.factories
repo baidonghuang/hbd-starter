@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.hbd.starter.access.supervisor.CtlAccessSupervisorAutoConfiguration
